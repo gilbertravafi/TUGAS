@@ -592,6 +592,12 @@ Flat fading
 
 Selective fading
 
+...Java
+
+For Guntur Syahputra
+
+...
+
 
 
 
